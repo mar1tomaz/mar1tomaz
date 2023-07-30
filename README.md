@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mar1tomaz
-- 👀 I’m interested in Back-end and Cloud
+- 👀 I’m interested in Gestão de projetos e desenvolvimento de software foco em Back-end
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me <https://www.linkedin.com/in/maritomaz/>
