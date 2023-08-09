@@ -1,7 +1,8 @@
-# Olá! Eu sou o Mari Tomaz 🖐️
+# Olá! Eu sou Mari Tomaz 🖐️
 
 <img  height="180em" src= "https://github-readme-stats.vercel.app/api?username=mar1tomaz&show_icons=true&theme=radical"/>  <img  height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mar1tomaz&layout=compact&langs_count=16&theme=radical"/>
-______________________________________________________________________________
+
+
 ## Tecnologias que uso
 
 <div style="display: inline_block">
