@@ -18,7 +18,7 @@
 
 ### Dedico estudos e produção de projetos voltados ao desenvolvimento de software com foco em Back-end
 Amo tecnologia, educação e mudar a vida das pessoas através da programação.
-## O QUE ESTÁ ARQUIVADOS AQUI?
+## O QUE ESTÁ ARQUIVADO AQUI?
 
 - 👋 Trabalho de conclusão do curso de fundamentos AWS, arquitetura e codigo do site - Escola da Nuvem
 - 👀 Todas as atividades praticas para reforço dos conhecimentos em Backend, clusterizados pelo modulo e tema - Cubos Academy
