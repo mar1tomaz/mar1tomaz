@@ -15,16 +15,16 @@ ______________________________________________________________________________
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-### Minha dedicação maior é desenvolvimento de software com foco em Back-end
+### Dedico estudos e produção de projetos voltados ao desenvolvimento de software com foco em Back-end
 Amo tecnologia, educação e mudar a vida das pessoas através da programação.
-## PROJETOS
+## O QUE ESTÁ ARQUIVADOS AQUI?
 
-- 👋 
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
-- 
+- 👋 Trabalho de conclusão do curso de fundamentos AWS, arquitetura e codigo do site - Escola da Nuvem
+- 👀 Todas as atividades praticas para reforço dos conhecimentos em Backend, clusterizados pelo modulo e tema - Cubos Academy
+- 🌱 Todos os projetos desafios - Cubos Academy
+- 💞️ API para cadastro de pontos de doações em Juiz de Fora 
+- 📫 API "RODEI" - Monitoramento de frota
+  
 
 <!---
 mar1tomaz/mar1tomaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
