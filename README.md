@@ -23,8 +23,8 @@ Amo tecnologia, educação e mudar a vida das pessoas através da programação.
 - 👋 Trabalho de conclusão do curso de fundamentos AWS, arquitetura e codigo do site - Escola da Nuvem
 - 👀 Todas as atividades praticas para reforço dos conhecimentos em Backend, clusterizados pelo modulo e tema - Cubos Academy
 - 🌱 Todos os projetos desafios - Cubos Academy
-- 💞️ API para cadastro de pontos de doações em Juiz de Fora 
-- 📫 API "RODEI" - Monitoramento de frota
+- 💞️ Cadastro de pontos de doações em Juiz de Fora 
+- 📫 "RODEI" - Monitoramento de frota
   
 
 <!---
