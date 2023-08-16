@@ -15,7 +15,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-### Dedico estudos e produção de projetos voltados ao desenvolvimento de software com foco em Back-end
+### Dedico estudos e produção de projetos voltados a cloud e desenvolvimento de software com foco em Back-end
 Amo tecnologia, educação e mudar a vida das pessoas através da programação.
 ## O QUE ESTÁ ARQUIVADO AQUI?
 
