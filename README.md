@@ -21,6 +21,7 @@ Amo tecnologia, educação e mudar a vida das pessoas através da programação.
 - 👋 Trabalho de conclusão do curso de fundamentos AWS, arquitetura e codigo do site - Escola da Nuvem
 - 👀 Todas as atividades praticas para reforço dos conhecimentos em Backend, clusterizados pelo modulo e tema - Cubos Academy
 - 🌱 Todos os projetos desafios - Cubos Academy
+- 🍔 PDV WINDOWS - Completo
 
   
 
